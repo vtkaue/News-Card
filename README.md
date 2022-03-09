@@ -1,6 +1,6 @@
 # News-Card
 
-
+> see the project : https://vtkaue.github.io/News-Card/
 
 <img src="./assets/project-finalized.png"  widht="250px" alt="News-Card-image">
 
